@@ -7,10 +7,10 @@ redirect_from:
   - /publications.html
 ---
 
-
+# Published Work
+* Arnold, M. L., Tonti, L., Phillips, S., Kershner, S. P., Lipton, B., Heslin, B., Ukert, B., **Hebert, R.**, & Pesko, M. F. (2026). Longitudinal Trends in Medicaid Hearing Aid Coverage for Adults in the United States: 2003–2023. American Journal of Audiology. [DOI](https://doi.org/10.1044/2026_AJA-25-00204)
 
 # Works in Progress
-* Longitudinal Trends in Medicaid Hearing Aid Coverage for Adults in the United States: 2003-2023 (with Michelle Arnold, Lauren Tonti, Serena Phillips, Stacie P. Kershner, Brandy Lipton, Brianna Heslin, Benjamin Ukert, and Michael F. Pesko)
 * Medicaid Hearing Aid Mandates and Hearing Aid Purchasing Among Older Adults (with Benjamin Ukert, Michelle Arnold, Brandy Lipton, and Michael F. Pesko)
 * The Effect of Paid Sick Leave on Healthcare Expenditures (with Kevin Callison, Michael F. Pesko, and Samuel Sturm) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6036854)
 * Cigarette Taxes and the Household Budget (with Samuel Sturm, Michael Darden, and Michael F. Pesko) [NBER Working Paper](https://www.nber.org/papers/w33746)
